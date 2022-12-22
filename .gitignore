@@ -1,0 +1,4 @@
+Makefile
+*.pdf
+ssh*
+push*
